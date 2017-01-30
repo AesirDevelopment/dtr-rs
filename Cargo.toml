@@ -1,0 +1,7 @@
+[package]
+name = "dtr-rs"
+version = "0.1.0"
+authors = ["Ferriel Melarpis <fbmelarpis@protonmail.ch>", "Jan Keith Darunday <jkcdarunday@gmail.com>"]
+
+[dependencies]
+iron = "0.5.^"
